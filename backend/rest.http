@@ -1,0 +1,9 @@
+post http://localhost:3000/api/auth/callback
+Content-Type: application/json
+
+{
+    "id":12354,
+    "firstName":"shashi",
+    "lastName":"miryala",
+    "imageUrl":"www.gmail.com"
+}
